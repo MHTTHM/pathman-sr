@@ -27,14 +27,14 @@
 sid_saves = 'static_sids.json'
 
 #odl_ip = '127.0.0.1'
-odl_ip = '198.18.1.80'
-odl_port = '8181'
+odl_ip = '173.39.116.187'
+odl_port = '6644'
 log_file = '/tmp/pathman.log'
 log_size = 2000000
 log_count = 3
 log_level = 'INFO'
-odl_user = 'admin'
-odl_password = 'admin'
+odl_user = 'v158user1'
+odl_password = '8b5c33'
 
 import requests, json, logging
 
